@@ -1,0 +1,3 @@
+public interface Fuego {
+    public void LatigoIgneo();
+}
