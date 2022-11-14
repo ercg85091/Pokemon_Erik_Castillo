@@ -1,0 +1,4 @@
+public interface Electrico {
+    public void punotrueno();
+
+}
